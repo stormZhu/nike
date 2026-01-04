@@ -1,3 +1,7 @@
+## 参考
+
+https://github.com/adrianhajdin/nike_landing_page
+
 ## setup
 
 ```bash
